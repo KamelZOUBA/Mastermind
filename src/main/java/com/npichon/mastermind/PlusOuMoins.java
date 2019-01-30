@@ -1,4 +1,4 @@
-package main.java;
+package com.npichon.mastermind;
 
 public class PlusOuMoins extends MenuMode {
 

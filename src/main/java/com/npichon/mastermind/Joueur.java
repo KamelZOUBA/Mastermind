@@ -1,4 +1,4 @@
-package main.java;
+package com.npichon.mastermind;
 
 public abstract class Joueur {
 
