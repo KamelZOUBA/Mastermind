@@ -2,27 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c12eb39-e8e5-4ce8-8713-455180c4f78b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/log4j.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nicolas/mastermind/Mastermind.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Mastermind/main/java/com/npichon/mastermind/Error.java" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Mastermind/main/java/com/npichon/mastermind/Error.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Mastermind/main/java/com/npichon/mastermind/Humain.java" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Mastermind/main/java/com/npichon/mastermind/Humain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Mastermind/main/java/com/npichon/mastermind/Joueur.java" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Mastermind/main/java/com/npichon/mastermind/Joueur.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Mastermind/main/java/com/npichon/mastermind/Machine.java" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Mastermind/main/java/com/npichon/mastermind/Machine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Mastermind/main/java/com/npichon/mastermind/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Mastermind/main/java/com/npichon/mastermind/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Mastermind/main/java/com/npichon/mastermind/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Mastermind/main/java/com/npichon/mastermind/Menu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Mastermind/main/java/com/npichon/mastermind/MenuMode.java" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Mastermind/main/java/com/npichon/mastermind/MenuMode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Mastermind/main/java/com/npichon/mastermind/PlusOuMoins.java" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Mastermind/main/java/com/npichon/mastermind/PlusOuMoins.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/nicolas/mastermind/Error.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nicolas/mastermind/Error.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/nicolas/mastermind/Humain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nicolas/mastermind/Humain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/nicolas/mastermind/Joueur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nicolas/mastermind/Joueur.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/nicolas/mastermind/Machine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nicolas/mastermind/Machine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/nicolas/mastermind/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nicolas/mastermind/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/nicolas/mastermind/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nicolas/mastermind/Menu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/nicolas/mastermind/MenuMode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nicolas/mastermind/MenuMode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/nicolas/mastermind/PlusOuMoins.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nicolas/mastermind/PlusOuMoins.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/npichon/mastermind/Error.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/npichon/mastermind/Humain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/npichon/mastermind/Joueur.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/npichon/mastermind/Machine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/npichon/mastermind/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/npichon/mastermind/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/npichon/mastermind/MenuMode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/npichon/mastermind/PlusOuMoins.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,8 +42,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/nicolas/mastermind/MenuMode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="18" column="59" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
+            <state relative-caret-position="289">
+              <caret line="24" column="37" lean-forward="true" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -71,7 +60,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/nicolas/mastermind/PlusOuMoins.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
+            <state relative-caret-position="-136">
               <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
@@ -201,7 +190,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550737570702" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550737887693" />
     <property name="last_opened_file_path" value="$USER_HOME$/eclipse-workspace/CHR_puma" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
@@ -425,15 +414,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/nicolas/mastermind/PlusOuMoins.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
+        <state relative-caret-position="-136">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/nicolas/mastermind/MenuMode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="18" column="59" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
+        <state relative-caret-position="289">
+          <caret line="24" column="37" lean-forward="true" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
         </state>
       </provider>
     </entry>

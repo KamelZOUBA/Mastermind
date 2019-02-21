@@ -18,8 +18,8 @@ public abstract class MenuMode {
     //TODO tu déclare ici les properties que tu récupère depuis le config.properties
     //TODO mais tu va les intialiser dans le constructeur des classes filles, comme ça on pourra faire la distinction entre les properties plusOuMoins et Mastermind
 
-    Joueur joueur1;
-    Joueur joueur2;
+    Joueur joueur1; //TODO renommer jour1 en humain c'est plus parlant
+    Joueur joueur2; //TODO renommer jour1 en machine c'est plus parlant
     String nomDuJeu;
     static String resultat;
     static int longueurNombreMystere;
